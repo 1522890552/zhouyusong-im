@@ -7,7 +7,7 @@ use im\Kernel\ServiceContainer;
 /**
  * Class AppContainer.
  *
- * @author laoqianjunzi
+ * @author zhouyusong
  *
  * @property Request\TencentClient request
  * @property User\Clinet user

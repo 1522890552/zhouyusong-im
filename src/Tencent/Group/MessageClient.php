@@ -10,7 +10,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class MessageClient
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\Group
  */
 class MessageClient extends TencentClient implements GroupMessageInterface

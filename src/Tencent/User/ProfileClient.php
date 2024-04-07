@@ -7,7 +7,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class ProfileClient
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\User
  */
 class ProfileClient extends TencentClient

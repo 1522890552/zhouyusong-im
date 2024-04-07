@@ -7,7 +7,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class SpeakingClient
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\Setting
  */
 class SpeakingClient extends TencentClient

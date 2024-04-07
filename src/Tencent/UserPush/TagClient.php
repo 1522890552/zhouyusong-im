@@ -8,7 +8,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class TagClient
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\UserPush
  */
 class TagClient extends TencentClient

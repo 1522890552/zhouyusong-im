@@ -8,7 +8,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class MessageCountClient
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\Group
  */
 class MessageCountClient extends TencentClient implements GroupMessageCountInterface

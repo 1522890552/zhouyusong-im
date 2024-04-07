@@ -8,7 +8,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class NotifyClient
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\Group
  */
 class NotifyClient extends TencentClient implements GroupNotifyInterface

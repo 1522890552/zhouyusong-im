@@ -17,7 +17,7 @@ use im\Kernel\Support\Str;
  *  'secretKey' => '',
  * ];
  * Class TencentClient
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\Request
  */
 class TencentClient extends BaseClient

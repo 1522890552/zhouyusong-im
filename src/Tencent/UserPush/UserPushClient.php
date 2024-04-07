@@ -8,7 +8,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class UserPushClient
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\UserPush
  */
 class UserPushClient extends TencentClient

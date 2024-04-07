@@ -8,7 +8,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class BlackFriendClient
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\User
  */
 class BlackFriendClient extends TencentClient implements UserFriendInterface

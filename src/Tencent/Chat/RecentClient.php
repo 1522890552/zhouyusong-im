@@ -7,7 +7,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class RecentClient.
- * @author laoqianjunzi
+ * @author zhouyusong
  */
 class RecentClient extends TencentClient
 {

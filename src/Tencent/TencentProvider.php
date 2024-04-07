@@ -8,7 +8,7 @@ use Pimple\ServiceProviderInterface;
 /**
  * Class TencentProvider.
  *
- * @author laoqianjunzi
+ * @author zhouyusong
  */
 class TencentProvider implements ServiceProviderInterface
 {

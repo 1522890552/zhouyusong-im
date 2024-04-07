@@ -9,7 +9,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class UserClient
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\Group
  */
 class UserClient extends TencentClient implements GroupUserInterface

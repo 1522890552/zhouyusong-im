@@ -9,7 +9,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class Clinet
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\User
  */
 class Clinet extends TencentClient implements UserInterface

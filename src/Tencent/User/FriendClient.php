@@ -9,7 +9,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class FriendClient
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\User
  */
 class FriendClient extends TencentClient implements UserFriendInterface

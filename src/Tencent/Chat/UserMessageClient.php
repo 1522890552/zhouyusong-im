@@ -9,7 +9,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class UserMessageClient
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\Chat
  */
 class UserMessageClient extends TencentClient implements UserMessageInterface

@@ -8,7 +8,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class AttrNamesClient
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\UserPush
  */
 class AttrNamesClient extends TencentClient

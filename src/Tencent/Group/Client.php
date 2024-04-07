@@ -10,7 +10,7 @@ use im\Tencent\Request\TencentClient;
  * 群组管理
  * https://cloud.tencent.com/document/product/269/1614
  * Class Client
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\Group
  */
 class Client extends TencentClient implements GroupInterface

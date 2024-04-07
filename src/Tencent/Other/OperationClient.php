@@ -7,7 +7,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class OperationClient
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\Other
  */
 class OperationClient extends TencentClient

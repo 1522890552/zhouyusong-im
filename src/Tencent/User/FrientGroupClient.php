@@ -8,7 +8,7 @@ use im\Tencent\Request\TencentClient;
 
 /**
  * Class FrientGroupClient
- * @author laoqianjunzi
+ * @author zhouyusong
  * @package im\Tencent\User
  */
 class FrientGroupClient extends TencentClient implements UserFrientGroupInterface
