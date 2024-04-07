@@ -1,0 +1,25 @@
+{
+    "name": "zhouyusong/im",
+    "description": "这是一个集成腾讯im api的依赖",
+    "autoload": {
+        "psr-4": {
+            "im_lib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhouyusong",
+            "email": "1522890552@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">7.4.*"
+    },
+    "extra": {
+        "think": {
+            "config": {
+                "im": "src/config/im.php"
+            }
+        }
+    }
+}
